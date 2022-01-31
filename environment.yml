@@ -1,0 +1,20 @@
+name: di504-term-project
+channels:
+- fastai
+- pytorch
+- defaults
+dependencies:
+- numpy
+- pandas
+- pillow
+- jupyter
+- fastcore
+- nbdev
+- fastprogress
+- pytorch
+- torchvision
+- matplotlib
+- pip:
+  - kaggle
+  - wandb
+
